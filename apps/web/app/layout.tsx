@@ -61,11 +61,11 @@ const defaultFont = localFont({
 });
 
 export const metadata: Metadata = {
-	title: "Cap — Beautiful screen recordings, owned by you.",
+	title: "data365 — pipeline test | Cap — Beautiful screen recordings, owned by you.",
 	description:
 		"Cap is the open source alternative to Loom. Lightweight, powerful, and cross-platform. Record and share in seconds.",
 	openGraph: {
-		title: "Cap — Beautiful screen recordings, owned by you.",
+		title: "data365 — pipeline test | Cap — Beautiful screen recordings, owned by you.",
 		description:
 			"Cap is the open source alternative to Loom. Lightweight, powerful, and cross-platform. Record and share in seconds.",
 		type: "website",
